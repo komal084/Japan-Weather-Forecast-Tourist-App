@@ -118,7 +118,7 @@ weaher-app
 7. Supports almost all the browsers.
 8. Breadcrums are provieded to give complete site navigation idea.
 9. Flexible design, you can add or remove pages to the website in a go.
-10.Colorful and feasibe user experience which helps in tourist attraction.
+10. Colorful and feasibe user experience which helps in tourist attraction.
 
 ----------------------------------------------------------------------------------------------------------------------
    
