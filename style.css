@@ -1216,7 +1216,7 @@ form select {
   margin-bottom: 70px; }
   .find-location select {
     width: 100%;
-    padding: 20px 50px 20px 20px;
+    padding: 20px 50px 20px 50px;
     background: #1e202b;
     color: white; }
   .find-location button {
@@ -1572,3 +1572,14 @@ form select {
     .site-footer .social-links a:hover {
       background: #009ad8;
       color: white; }
+
+.err-msg {
+    position: absolute;
+    top: 62%;
+    left: 14%;
+    color: white;
+    padding: 10px 30px;
+    background: red;
+    width: 70%;
+    border-radius: 20px;
+}

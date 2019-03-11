@@ -109,7 +109,7 @@
         function Validate() {
             var errorMessage = "";
             if ($("#citySelect").val() == "Select") {
-                errorMessage += "► Select City";
+                errorMessage += "<div class='err-msg'> ►  Please select a City Name you want to see weather forecast for...</div>";
             }
             return errorMessage;
         }
@@ -138,7 +138,5 @@
 	});
 
 })(jQuery, document, window);
-
-
 
 
