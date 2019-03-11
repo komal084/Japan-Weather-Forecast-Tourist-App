@@ -31,7 +31,7 @@ Responsive Web Application for Japan Weather Forecast for Tourist to get real-ti
     
        *OSX: $ open -a Google\ Chrome --args --disable-web-security
        *Linux: $ google-chrome --disable-web-security
-       *Windows:  --disable-web-security OR chrome.exe -–allow-file-access-from-files
+       *Windows:  chrome.exe --disable-web-security OR chrome.exe -–allow-file-access-from-files
        
     d. Now, application would work fine, with no AJAX & JSON blockers.
     e. Taddaaa...App is ready to use...!! :)
