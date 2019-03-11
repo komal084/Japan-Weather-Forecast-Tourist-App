@@ -14,6 +14,7 @@ Responsive Web Application for Japan Weather Forecast for Tourist to get real-ti
 4. The images used are processed by me using Photoshop tool, to make it high quality and to make it perfect as per the requirement.
 5. All the open source libraries and plugins used in the app are included in the project directory.
 6. Attached a demo screen-video for the application reference. (Look & feel details)
+  >> japan-weather-app.mov
 
 ---------------------------------------------------------------------------------------------------------------------
 
