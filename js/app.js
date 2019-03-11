@@ -80,15 +80,13 @@
                         document.getElementById("directionVal").innerHTML = directionVal + "<sup>o</sup>";
 
                         // Rain situation per hour
-                        if (result["rain"]) {
+                        if (result["rain"] && !$.isEmptyObject(result["rain"])) {
                             var rainVal = result["rain"]["1h"];
                             document.getElementById("rainVal").innerHTML = rainVal + "&#37; rain";
-                        } 
-                        if (result["snow"]) {
+                        } else if (result["snow"] && !$.isEmptyObject(result["snow"])) {
                             var rainVal = result["snow"]["1h"];
                             document.getElementById("rainVal").innerHTML = rainVal + "&#37; snow";
-                        } 
-                        if (result["rain"] && result["snow"]) {
+                        } else if (result["rain"] && result["snow"]) {
                             document.getElementById("rainVal").innerHTML = "Rain+Snow";
                         }
                         else {
