@@ -2,10 +2,10 @@
 Responsive Web Application for Japan Weather Forecast for Tourist to get real-time detailed weather updates
 
 --------------------------------------------------------------------------------------------------------------------
-*Designed & Developed by: Komal Buradkar ***
-*Date: 11-March-2019
-*Email: komalburadkar08@gmail.com
-*Project Name: Japan Weather Forecast Web App for Tourist (BizMates Codility Test)
+#Designed & Developed by: Komal Buradkar
+#Date: 11-March-2019
+#Email: komalburadkar08@gmail.com
+#Project Name: Japan Weather Forecast Web App for Tourist (BizMates Codility Test)
 ---------------------------------------------------------------------------------------------------------------------
 
 1. Entire UI-UX design and development work has been done by me from scratch using some open source libraries.
@@ -56,7 +56,7 @@ Responsive Web Application for Japan Weather Forecast for Tourist to get real-ti
 ****** Folder Structure ****
 
 weaher-app
-  |-- fonts/
+  	|-- fonts/
 	|-- images/
 	|-- index.html
 	|-- js/
